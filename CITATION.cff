@@ -1,6 +1,6 @@
-@software{Lisa_My_Research_Software_2017,
+@software{팀명_2023,
   author = {팀원1, 팀원2, 팀원3, 팀원4, ...},
-  doi = {Digital Object Identifier(지워도 됩니다)},
+  message: "If you use this software, please cite it as below.”,
   month = {8},
   title = {{프로젝트 제목}},
   url = {https://github.com/K-Software-BootCamp/Template},
