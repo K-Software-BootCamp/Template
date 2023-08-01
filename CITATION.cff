@@ -1,8 +1,8 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 authors:
-- family-names: "Lee (성)"
-  given-names: "Junpyo (이름)"
+- family-names: "Lee"
+  given-names: "Junpyo"
 - family-names: "Lisa"
   given-names: "Mona"
 title: "프로젝트명"
