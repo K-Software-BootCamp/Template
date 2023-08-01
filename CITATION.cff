@@ -1,9 +1,11 @@
-@software{팀명_2023,
-  author = {팀원1, 팀원2, 팀원3, 팀원4, ...},
-  message: "If you use this software, please cite it as below.”,
-  month = {8},
-  title = {{프로젝트 제목}},
-  url = {https://github.com/K-Software-BootCamp/Template},
-  version = {1.0.0},
-  year = {2023}
-}
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Lee (성)"
+  given-names: "Junpyo (이름)"
+- family-names: "Lisa"
+  given-names: "Mona"
+title: "프로젝트명"
+version: 1.0.0
+date-released: 2023-07-31
+url: "https://github.com/K-Software-BootCamp/Template"
